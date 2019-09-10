@@ -1,1 +1,1 @@
-# pr-cticaLab4
+# practicaLab4
